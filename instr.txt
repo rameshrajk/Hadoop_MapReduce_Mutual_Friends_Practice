@@ -1,0 +1,1 @@
+hadoop jar MutualFriends1.jar MutualFriends1 soc-LiveJournal1Adj.txt /output folder
